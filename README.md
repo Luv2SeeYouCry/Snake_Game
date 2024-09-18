@@ -14,7 +14,7 @@
 
 ## Demo
 
-[![Demo](https://img.shields.io/badge/Demo-View%20Demo-blue)](https://luv2seeyoucry.github.io/snake-game)
+[![Demo](https://img.shields.io/badge/Demo-View%20Demo-blue)](https://luv2seeyoucry.github.io/snake-game/) 
 
 
 ## About the Project
