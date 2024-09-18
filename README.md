@@ -16,6 +16,7 @@
 
 [![Demo](https://img.shields.io/badge/Demo-View%20Demo-blue)](https://luv2seeyoucry.github.io/snake-game)
 
+
 ## About the Project
 
 The Snake Game is a classic arcade game where the player controls a snake that moves around the game area to eat food and grows longer each time it eats. The game gets more challenging as the snake grows, and it must avoid colliding with itself or the walls.
